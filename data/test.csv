@@ -1,0 +1,3 @@
+type,start,end,description
+DOMAIN,50,200,My test domain
+BINDING,300,310,My test site
