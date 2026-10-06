@@ -26,5 +26,5 @@ rows:
   - id: hotspots
     label: Hotspots
     kind: features
-    data: ./data/hotspots.csv
+    data: ./data/test.csv
     description: Hotspot regions identified by our lab's pipeline
